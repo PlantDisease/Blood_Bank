@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569478135398",
+    "firebase_url": "https://bloodbankspar.firebaseio.com",
+    "project_id": "bloodbankspar",
+    "storage_bucket": "bloodbankspar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569478135398:android:ea9b7d68815737d3a1f7a7",
+        "android_client_info": {
+          "package_name": "com.android.spar.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569478135398-oh444719muhn2kfu2qt118p30vfrta3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsUiApvmpgsq0GwYgz1XObdmZSycgnO6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569478135398-oh444719muhn2kfu2qt118p30vfrta3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
